@@ -1,5 +1,6 @@
 const leftBtn= document.querySelector(".l-btn");
 const rightBtn = document.querySelector(".r-btn");
+console.log("hi");
 
 
 rightBtn.addEventListener("click",
