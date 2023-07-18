@@ -723,3 +723,19 @@ body{
     overflow: hidden;
     height:100%;
 }
+.abc{
+    display: inline-block;
+    font-size: larger;
+    font-weight: bold;
+    width: 30%;
+    
+}
+.abc:hover{
+    background: linear-gradient(80deg, blue, yellow);
+}
+.abc:active{
+    width: 25%;
+    background-image: linear-gradient(180deg, red, yellow);
+
+   
+}
